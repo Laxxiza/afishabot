@@ -1,0 +1,23 @@
+{
+  "name": "afishaqueuebot",
+  "version": "1.0.0",
+  "description": "mediabot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug-2": "nodemon -e js --inspect index.js",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "firebase": "^7.15.5",
+    "nconf": "^0.10.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "engines": {
+    "node": ">=12.16.1"
+  }
+}

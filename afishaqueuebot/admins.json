@@ -1,0 +1,421 @@
+{
+	"afisha": {
+		"559075619": {
+			"userid": "559075619",
+			"username": "lunachrysy",
+			"opername": "Владислав Лакиза"
+		},
+		"552028550": {
+			"userid": "552028550",
+			"username": "yafurtikov",
+			"opername": "Yasha Furtikov"
+		},
+		"534779292": {
+			"userid": "534779292",
+			"username": "hvstrzv",
+			"opername": "Владимир Хвосторезов"
+		},
+		"271042361": {
+			"userid": "271042361",
+			"username": "Tayadamee",
+			"opername": "Tanya Shub"
+		},
+		"500960902": {
+			"userid": "500960902",
+			"username": "HellRxpe",
+			"opername": "Dima Sypko"
+		},
+		"227379298": {
+			"userid": "227379298",
+			"username": "hauptmannkaneel",
+			"opername": "Влада Лазарева"
+		}
+	},
+	"travel": {
+		"342090096": {
+			"userid": "342090096",
+			"username": "beloviktor",
+			"opername": "Beloviktor"
+		},
+		"597038839": {
+			"userid": "597038839",
+			"username": "avilchenkon",
+			"opername": "Наталья Авильченко"
+		},
+		"277050584": {
+			"userid": "277050584",
+			"username": "OlgaKiryu",
+			"opername": "Olga"
+		},
+		"670125468": {
+			"userid": "670125468",
+			"username": "SvetlanaSarapina",
+			"opername": "Светлана Сарапина"
+		},
+		"280038519":{
+			"userid": "280038519",
+			"username": "nsf9392",
+			"opername": "Сергей Никитин"
+		},
+		"1018210923":{
+			"userid": "1018210923",
+			"username": "tt_22",
+			"opername": "Timur Migranov"
+		},
+		"1078785492":{
+			"userid": "1078785492",
+			"username": "E_Kryuger",
+			"opername": "Евгения Крюгер"
+		},
+		"449552909":{
+			"userid": "449552909",
+			"username": "inahkonen",
+			"opername": "Игорь Нахконен"
+		},
+		"110390241":{
+			"userid": "110390241",
+			"username": "Olegek",
+			"opername": "Oleg Nikitenko"
+		},
+		"386159887":{
+			"userid": "386159887",
+			"username": "ivanovandrei96",
+			"opername": "Андрей Иванов"
+		},
+		"675065350":{
+			"userid": "675065350",
+			"username": "vzobun",
+			"opername": "Vlad Zobun"
+		}
+	},
+	"travel-second-line": {
+		"342090096": {
+			"userid": "342090096",
+			"username": "beloviktor",
+			"opername": "Beloviktor"
+		},
+		"597038839": {
+			"userid": "597038839",
+			"username": "avilchenkon",
+			"opername": "Наталья Авильченко"
+		},
+		"277050584": {
+			"userid": "277050584",
+			"username": "OlgaKiryu",
+			"opername": "Olga"
+		},
+		"670125468": {
+			"userid": "670125468",
+			"username": "SvetlanaSarapina",
+			"opername": "Светлана Сарапина"
+		},
+		"280038519":{
+			"userid": "280038519",
+			"username": "nsf9392",
+			"opername": "Сергей Никитин"
+		},
+		"1018210923":{
+			"userid": "1018210923",
+			"username": "tt_22",
+			"opername": "Timur Migranov"
+		},
+		"1078785492":{
+			"userid": "1078785492",
+			"username": "E_Kryuger",
+			"opername": "Евгения Крюгер"
+		},
+		"436792936":{
+			"userid": "436792936",
+			"username": "kamzolovaina",
+			"opername": "Inara Kamzolova"
+		},
+		"454710155":{
+			"userid": "454710155",
+			"username": "zubkova_anast",
+			"opername": "Anastasiya"
+		},
+		"1027120618":{
+			"userid": "1027120618",
+			"username": "Glinchnvk",
+			"opername": "Ruslan"
+		},
+		"835098250":{
+			"userid": "835098250",
+			"username": "kudryashovda",
+			"opername": "Дмитрий Кудряшов"
+		},
+		"654934601":{
+			"userid": "654934601",
+			"username": "rzn_el",
+			"opername": "Лена Резинкина"
+		}
+	},
+	"afisha-second-line": {
+		"559075619": {
+			"userid": "559075619",
+			"username": "lunachrysy",
+			"opername": "Владислав Лакиза"
+		},
+		"552028550": {
+			"userid": "552028550",
+			"username": "yafurtikov",
+			"opername": "Yasha Furtikov"
+		},
+		"534779292": {
+			"userid": "534779292",
+			"username": "hvstrzv",
+			"opername": "Владимир Хвосторезов"
+		},
+		"271042361": {
+			"userid": "271042361",
+			"username": "Tayadamee",
+			"opername": "Tanya Shub"
+		},
+		"500960902": {
+			"userid": "500960902",
+			"username": "HellRxpe",
+			"opername": "Dima Sypko"
+		},
+		"227379298": {
+			"userid": "227379298",
+			"username": "hauptmannkaneel",
+			"opername": "Влада Лазарева"
+		},
+		"1033247922": {
+			"userid": "1033247922",
+			"username": "dilyasem",
+			"opername": "Адиля Семенова"
+		},
+		"938242771": {
+			"userid": "938242771",
+			"username": "ORB_Igor_Yarovitsyin",
+			"opername": "Игорь Яровицын"
+		}
+	},
+	"afisha-new-line": {
+		"559075619": {
+			"userid": "559075619",
+			"username": "lunachrysy",
+			"opername": "Владислав Лакиза"
+		},
+		"552028550": {
+			"userid": "552028550",
+			"username": "yafurtikov",
+			"opername": "Yasha Furtikov"
+		},
+		"534779292": {
+			"userid": "534779292",
+			"username": "hvstrzv",
+			"opername": "Владимир Хвосторезов"
+		},
+		"271042361": {
+			"userid": "271042361",
+			"username": "Tayadamee",
+			"opername": "Tanya Shub"
+		},
+		"500960902": {
+			"userid": "500960902",
+			"username": "HellRxpe",
+			"opername": "Dima Sypko"
+		},
+		"227379298": {
+			"userid": "227379298",
+			"username": "hauptmannkaneel",
+			"opername": "Влада Лазарева"
+		},
+		"1033247922": {
+			"userid": "1033247922",
+			"username": "dilyasem",
+			"opername": "Адиля Семенова"
+		},
+		"938242771": {
+			"userid": "938242771",
+			"username": "ORB_Igor_Yarovitsyin",
+			"opername": "Игорь Яровицын"
+		}
+	},
+	"afisha-new-line-two": {
+		"559075619": {
+			"userid": "559075619",
+			"username": "lunachrysy",
+			"opername": "Владислав Лакиза"
+		},
+		"552028550": {
+			"userid": "552028550",
+			"username": "yafurtikov",
+			"opername": "Yasha Furtikov"
+		},
+		"534779292": {
+			"userid": "534779292",
+			"username": "hvstrzv",
+			"opername": "Владимир Хвосторезов"
+		},
+		"271042361": {
+			"userid": "271042361",
+			"username": "Tayadamee",
+			"opername": "Tanya Shub"
+		},
+		"500960902": {
+			"userid": "500960902",
+			"username": "HellRxpe",
+			"opername": "Dima Sypko"
+		},
+		"227379298": {
+			"userid": "227379298",
+			"username": "hauptmannkaneel",
+			"opername": "Влада Лазарева"
+		},
+		"1033247922": {
+			"userid": "1033247922",
+			"username": "dilyasem",
+			"opername": "Адиля Семенова"
+		},
+		"938242771": {
+			"userid": "938242771",
+			"username": "ORB_Igor_Yarovitsyin",
+			"opername": "Игорь Яровицын"
+		}
+	},
+	"afisha-new-line-three": {
+		"559075619": {
+			"userid": "559075619",
+			"username": "lunachrysy",
+			"opername": "Владислав Лакиза"
+		},
+		"552028550": {
+			"userid": "552028550",
+			"username": "yafurtikov",
+			"opername": "Yasha Furtikov"
+		},
+		"534779292": {
+			"userid": "534779292",
+			"username": "hvstrzv",
+			"opername": "Владимир Хвосторезов"
+		},
+		"271042361": {
+			"userid": "271042361",
+			"username": "Tayadamee",
+			"opername": "Tanya Shub"
+		},
+		"500960902": {
+			"userid": "500960902",
+			"username": "HellRxpe",
+			"opername": "Dima Sypko"
+		},
+		"227379298": {
+			"userid": "227379298",
+			"username": "hauptmannkaneel",
+			"opername": "Влада Лазарева"
+		},
+		"1033247922": {
+			"userid": "1033247922",
+			"username": "dilyasem",
+			"opername": "Адиля Семенова"
+		},
+		"938242771": {
+			"userid": "938242771",
+			"username": "ORB_Igor_Yarovitsyin",
+			"opername": "Игорь Яровицын"
+		}
+	},
+	"general-kc": {
+		"677404671": {
+			"userid": "677404671",
+			"username": "tokmakova5",
+			"opername": "Настя Токмакова"
+		},
+		"419714052": {
+			"userid": "419714052",
+			"username": "klimenko_m",
+			"opername": "Marina Klimenko"
+		},
+		"682900882": {
+			"userid": "682900882",
+			"username": "oxanochka_pav",
+			"opername": "Оксана Павлова"
+		}
+	},
+	"geo": {
+		"713523449": {
+			"userid": "713523449",
+			"username": "Yanalednik",
+			"opername": "Яна Ледник"
+		},
+		"530060930": {
+			"userid": "530060930",
+			"username": "gerasimenkoel",
+			"opername": "Elena Gerasimenko"
+		},
+		"272157342": {
+			"userid": "272157342",
+			"username": "zalina_n",
+			"opername": "Zalina Nukbulganova"
+		},
+		"675734656": {
+			"userid": "675734656",
+			"username": "shefer_mariya",
+			"opername": "Мария"
+		},
+		"854375408": {
+			"userid": "854375408",
+			"username": "kiltinaanna",
+			"opername": "Анна Кильтина"
+		}
+	},
+	"fuel": {
+		"713523449": {
+			"userid": "713523449",
+			"username": "Yanalednik",
+			"opername": "Яна Ледник"
+		},
+		"530060930": {
+			"userid": "530060930",
+			"username": "gerasimenkoel",
+			"opername": "Elena Gerasimenko"
+		},
+		"272157342": {
+			"userid": "272157342",
+			"username": "zalina_n",
+			"opername": "Zalina Nukbulganova"
+		},
+		"675734656": {
+			"userid": "675734656",
+			"username": "shefer_mariya",
+			"opername": "Мария"
+		},
+		"854375408": {
+			"userid": "854375408",
+			"username": "kiltinaanna",
+			"opername": "Анна Кильтина"
+		},
+		"1064041902": {
+			"userid": "1064041902",
+			"username": "macenkokris",
+			"opername": "Кристина Маценко"
+		}
+	},
+	"taxib2b": {
+		"780518502": {
+			"userid": "780518502",
+			"username": "Marina_Kazankova",
+			"opername": "Марина Казанкова"
+		},
+		"1059138046": {
+			"userid": "1059138046",
+			"username": "ikalinova",
+			"opername": "Ирина Калинова"
+		}
+	},
+	"servModel":{
+		"449552909": {
+			"userid": "449552909",
+			"username": "nahkonen",
+			"opername": "Игорь Нахконен"
+		},
+		"835098250": {
+			"userid": "835098250",
+			"username": "kudryashovda",
+			"opername": "Дмитрий Кудряшов"
+		}
+	}
+}

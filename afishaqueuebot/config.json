@@ -1,0 +1,225 @@
+{
+  "token": "token",
+  "token2": "token",
+  "channel_id": {
+    "general": {
+      "admin": "559075619",
+      "log_chat": "-478035579",
+      "power": true
+    },
+    "services": {
+      "afisha": {
+        "main_chat": "-1001174420026",
+        "test_chat": "-1001420398502",
+        "power": false
+      },
+      "travel": {
+        "main_chat": "-1001219378966",
+        "test_chat": "-485307511",
+        "power": true
+      },
+      "travel-second-line": {
+        "main_chat": "-1001432359103",
+        "test_chat": "-1001432359103",
+        "power": true
+      },
+      "afisha-second-line": {
+        "main_chat": "-1001323215152",
+        "test_chat": "-1001323215152",
+        "power": true
+      },
+      "afisha-new-line": {
+        "main_chat": "-1001402560270",
+        "test_chat": "-1001463826933",
+        "power": true
+      },
+      "afisha-new-line-two": {
+        "main_chat": "-1001526007002",
+        "test_chat": "-1001526007002",
+        "power": true
+      },
+      "afisha-new-line-three": {
+        "main_chat": "-1001471646685",
+        "test_chat": "-1001471646685",
+        "power": true
+      },
+      "general-kc": {
+        "main_chat": "-564145287",
+        "test_chat": "-493198966",
+        "power": true
+      },
+      "geo": {
+        "main_chat": "-1001128605418",
+        "test_chat": "-1001317810648",
+        "power": true
+      },
+      "fuel": {
+        "main_chat": "-1001483855617",
+        "test_chat": "-1001486645782",
+        "power": true
+      },
+      "taxib2b": {
+        "main_chat": "-1001710057820",
+        "test_chat": "-1001710057820",
+        "power": true
+      },
+      "servModel": {
+        "main_chat": "-1001219787238", 
+        "test_chat": "-1001219787238",
+        "power": true
+      }
+    }
+  },
+  "adminMode": false,
+  "chatMode": {
+    "private": false,
+    "group": false,
+    "supergroup": true
+  },
+  "doubleParams": {
+    "afisha": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "travel": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "travel-second-line": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "afisha-second-line": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "afisha-new-line": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "afisha-new-line-two": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "afisha-new-line-three": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "general-kc": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "geo": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "fuel": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "taxib2b": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    },
+    "servModel": {
+      "doubleMode": false,
+      "doubleAuto": false,
+      "time": {
+        "morning": 10,
+        "evening": 19
+      },
+      "count": {
+        "on": 100,
+        "off": -100
+      }
+    }
+  }
+}
